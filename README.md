@@ -1,4 +1,4 @@
-#👋 Hi, I’m @kidchemical
+# 👋 Hi, I’m @kidchemical
 - 👀 I’m interested in ... C#, SQL, XML, PHP, CSS, JS
 - 🌱 I’m currently learning ... Everything
 - 💞️ I’m looking to collaborate on ... Anything

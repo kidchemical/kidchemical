@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @kidchemical
-- 👀 I’m interested in ... C#, C++, SQL, XML, PHP, CSS, JS, XPATH, Lil'ASM.
+- 👀 I’m interested in ... C#, C++, SQL, XML, PHP, CSS, JS, XPATH
 - 🌱 I’m currently learning ... Everything
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... Somehow
